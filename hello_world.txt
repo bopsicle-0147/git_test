@@ -1,2 +1,2 @@
-hello world! yay
-
+hello world!
+I finally learned git :)
